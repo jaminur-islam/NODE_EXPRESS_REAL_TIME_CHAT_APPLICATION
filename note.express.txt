@@ -1,0 +1,9 @@
+// middle ware types
+1.= application level middleware
+2.= router level middleware
+3.= error handling middleware
+4.= built-in middleware
+5.= third-party middleware
+
+express validation blog
+//https://express-validator.github.io/docs/custom-validators-sanitizers.html
